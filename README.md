@@ -1,10 +1,15 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Hey Coders" width="60%"/>  
-<h2>👋 Hey Coders, I’m <strong>Khadija Drider</strong></h2>
-<p>🚀 Full-Stack Developer | 🎨 UX/UI & Design Enthusiast | 🌍 Marketing Digital & Sharing Knowledge</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hey Coders, I'm Khadija Drider" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
+
+---
+
+## 👋 Hey Coders, I’m **Khadija Drider**
+
+🚀 Full-Stack Developer | 🎨 UX/UI & Digital Marketing Enthusiast | 🌍 Passionate About Sharing Knowledge  
 
 ---
 
@@ -35,11 +40,11 @@
 
 ---
 
-### 🎨 UX / UI & Digital Marketing  
+### 🎨 Interests  
 
-- 🎯 Passionnée par **UX/UI design** et la **conception d’interfaces modernes**.  
-- 📢 J’adore **partager des connaissances** et échanger sur le marketing digital.  
-- 💡 Toujours en veille pour **apprendre de nouvelles techniques** et améliorer l’expérience utilisateur.  
+- ✨ **UX & UI Design** – créer des interfaces intuitives et modernes.  
+- 📢 **Digital Marketing** – stratégie, visibilité et impact en ligne.  
+- 💡 **Sharing Knowledge** – transmettre, échanger et apprendre ensemble.  
 
 ---
 
@@ -51,13 +56,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhadijaDrider&layout=compact&theme=radical" width="48%">  
 
 </div>
-
----
-
-### 🔗 Connect with me  
-
-- Telegram: [Khadija Drider](https://t.me/spxd007)  
-- Portfolio & Projects: [Your Website/Portfolio](#)  
 
 ---
 
