@@ -1,19 +1,18 @@
-
-
-<!-- Banner animé -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=1A73E8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Khadija+Drider!;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=32&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=%3CHello+Coders!%2F%3E;I'm+Khadija+Drider+%F0%9F%91%8B;Turning+Ideas+Into+Code+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
-  <p align="center">A passionate Full Stack developer from Morocco</p>
----
 
-<!-- Who am I -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&duration=7500&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&repeat=false&lines=Click+Clack+Full+Stack+%F0%9F%92%BB+%7C+Code%2C+Build%2C+Repeat" alt="Typing SVG" />
+</p>
+
+
 <h2 align="center"> Who am I?</h2>
 <p align="center">
   I'm <b>Khadija Drider</b>, a tech professional trying to figure life out.<br/>
   What I do end up figuring out, I share! 
  <p align="center"> 📫 Connect with me:</p>
-  <p align="center"> 
+    <p align="center"> 
         <a href="mailto:khadijadrider.pro@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25px" alt="Email"/></a> &nbsp
         <a href="https://linkedin.com/khadija-drider/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn"/></a>&nbsp;&nbsp
         <a href="https://dev.to/khadija_drider" target="blank">
@@ -22,13 +21,11 @@
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khadijadrider1323" height="25" width="35" /></a> 
         <a href="https://www.behance.net/khadija drider" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khadija drider" height="25" width="35" /></a>
-</p>
-</p>
+    </p>
+  </p>
 
-
-## Skill Highlights
-
-  <img align="right" src="Welcome.gif" alt="Welcome GIF" width="300"/>  <br> 
+<h2>Skill Highlights</h2>
+<img align="right" src="Welcome.gif" alt="Welcome GIF" width="300"/>  <br> 
 
 ✨ **UX & UI Design** : creating intuitive and modern interfaces
 
@@ -44,10 +41,7 @@
 
 <br> 
 
-
-<!-- Tech Stack & Tools -->
-
-<h2 >  🛠️Tech Stack & Tools </h2> <br> 
+<h2 >🛠️Tech Stack & Tools</h2> <br> 
 <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"  /> &nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"  />&nbsp
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="44" height="44"  />&nbsp
