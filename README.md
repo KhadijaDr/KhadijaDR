@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="Welcome.gif" alt="Welcome GIF" width="500"/>
-</p>
 
 <!-- Banner animé -->
 <h1 align="center">
@@ -15,43 +12,42 @@
 <p align="center">
   I'm <b>Khadija Drider</b>, a tech professional trying to figure life out.<br/>
   What I do end up figuring out, I share! 
-</p>
-
-<!-- Contact -->
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
-        <a href="mailto:khadijadrider.pro@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35px" alt="Email"/> </a>
-        <a href="https://linkedin.com/khadija-drider/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" alt="LinkedIn"/></a>
+ <p align="center"> 📫 Connect with me:</p>
+  <p align="center"> 
+        <a href="mailto:khadijadrider.pro@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25px" alt="Email"/></a> &nbsp
+        <a href="https://linkedin.com/khadija-drider/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn"/></a>&nbsp;&nbsp
         <a href="https://dev.to/khadija_drider" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khadija_drider" height="30" width="40" /></a>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khadija_drider" height="25" width="35" /></a>
         <a href="https://stackoverflow.com/users/khadijadrider1323" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khadijadrider1323" height="30" width="40" /></a> 
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khadijadrider1323" height="25" width="35" /></a> 
         <a href="https://www.behance.net/khadija drider" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khadija drider" height="30" width="40" /></a>
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khadija drider" height="25" width="35" /></a>
+</p>
 </p>
 
-##  My Focus Areas
 
-<p align="right">
-  <img src="Welcome.gif" alt="Welcome GIF" width="500"/>
-</p>
-✨ **UX & UI Design** – creating intuitive and modern interfaces. 
+## Skill Highlights
 
-📢 **Digital Marketing** – boosting strategy, visibility, and online impact.  
+  <img align="right" src="Welcome.gif" alt="Welcome GIF" width="300"/>  <br> 
 
-💡 **Sharing Knowledge** – transmitting, exchanging, and learning together.  
+✨ **UX & UI Design** : creating intuitive and modern interfaces
 
-👯 **Collaboration**: open to creative Full-Stack projects mixing Tech + UX/UI + Marketing.
+📢 **Digital Marketing** : boosting strategy, visibility, and online impact 
 
-💬 **Let’s talk**: Full-Stack Dev, UX/UI, Digital Marketing, and Tech & Creativity ✨  
+💡 **Sharing Knowledge** : transmitting, exchanging, and learning together 
+
+👯 **Collaboration Vibes**: Code × Design × Impact
+
+💬 **Let’s talk**: Full-Stack Dev, UX/UI, Digital Marketing, and Tech & Creativity 
 
 ⚡ **Fun fact**: Mixing code & creativity is my ultimate “recipe” 🚀
+
+<br> 
 
 
 <!-- Tech Stack & Tools -->
 
-<h2 align="center">  🛠️Tech Stack & Tools </h2>
+<h2 >  🛠️Tech Stack & Tools </h2> <br> 
 <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"  /> &nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"  />&nbsp
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="44" height="44"  />&nbsp
