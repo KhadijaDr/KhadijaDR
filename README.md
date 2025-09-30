@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&duration=7500&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&repeat=false&lines=Click+Clack+Full+Stack+%F0%9F%92%BB+%7C+Code%2C+Build%2C+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&duration=3500&pause=1000&color=DA70D6&center=true&vCenter=true&width=700&repeat=false&lines=Click+Clack+Full+Stack+%F0%9F%92%BB+%7C+Code%2C+Build%2C+Repeat" alt="Typing SVG" />
 </p>
-
-
-<h2 align="center"> Who am I?</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 <p align="center">
   I'm <b>Khadija Drider</b>, a tech professional trying to figure life out.<br/>
   What I do end up figuring out, I share! 
