@@ -80,7 +80,7 @@
 </p>
 
 <div align="center">
-✨ *“Code, Design, Share & Grow!”* ✨  
+✨ “ Design, Code, Share & Grow!” ✨  
 </div>
 
 <p align="center">
